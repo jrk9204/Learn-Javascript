@@ -1,0 +1,24 @@
+{
+  "name": "learn-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ex) 클레스,프로토타입 / 클로저 / 일급함수 ... 등등을 코드로 작성해보면 배우는 공간입니다.",
+  "main": "closure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrk9204/Learn-Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrk9204/Learn-Javascript/issues"
+  },
+  "homepage": "https://github.com/jrk9204/Learn-Javascript#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "redux": "^4.2.0"
+  }
+}
