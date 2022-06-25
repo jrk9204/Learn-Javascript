@@ -1,0 +1,34 @@
+body {
+  /* position: relative; */
+}
+
+#minus {
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
+#parent {
+  /* position: relative; */
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+}
+
+#relativeChild {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  left: 20px;
+
+  background-color: red;
+}
+
+#absoluteChild {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  left: 20px;
+
+  background-color: purple;
+}
